@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-image: url("/Site/Images/blue.jpg");
+
+        padding-top: 20px;
+        padding-bottom: 40px;
+      }
+
+     h3{
+		 padding-left:20px
+	 }
+  .accountlable{
+	  font-size:16px;
+  }
+
+
+
+      /* Custom container */
+      .container-narrow {
+          background-color: #ffffff;
+	margin: 0 auto;
+	max-width: 800px;
+          height:auto;
+border: 2px;
+border-style: solid;
+border-color: rgba(167, 165, 172, 0.71);
+
+      }
+      .container-narrow > hr {
+        margin: 30px 0;
+      }
+
+      .tabbable{
+		  width:680px;
+		  padding-left:40px;
+	  }
+      /* Main marketing message and sign up button */
+      .jumbotron {
+        margin: 60px 0;
+        text-align: center;
+		min-height:450px;
+      }
+      .jumbotron h1 {
+        font-size: 72px;
+        line-height: 1;
+      }
+      .jumbotron .btn {
+        font-size: 21px;
+        padding: 14px 24px;
+      }
+
+      /* Supporting marketing content */
+      .marketing {
+        margin: 60px 0;
+      }
+      .marketing p + h4 {
+        margin-top: 28px;
+      }
+	  
+	  .container-fluid {
+padding-right: 20px;
+padding-left: 20px;
+min-height: 670px;
+}
+     .footer p{
+		 padding-left: 30px;
+padding-bottom: 10px;
+font-family: cursive;
+font-size: 15px;
+	 }
+	 
+	 .scheduleform{
+		 width:700px;
+		 width: 560px;
+	 }
+	  
+      .dropdown:hover .dropdown-menu {
+          display: block;
+          }
+	.createicon {
+          background: url(..images/icons/create.png) no-repeat;
+           float: left;
+           width: 10px;
+           height: 40px;
+}  
+
+
+     #step1 .modal-footer #change2login u {
+	       color: #003399;
+	 }
+
+
+
+

@@ -1,0 +1,94 @@
+
+
+#table{width:100%;}
+#table thead tr{background:#09F;
+height: 35px; color:White;}
+#table tr td, #table tr th{
+	font-size:16px;
+	text-align: center;
+	inline-box-align:center;
+	margin: 10px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	width:auto;
+}
+
+#table thead td {
+   width:auto;
+}
+
+#table tbody td{
+	width:auto;
+}
+
+
+
+
+#table tbody td input{
+
+	font-size:16px;
+	text-align: center;
+	inline-box-align:center;
+	margin: 10px;
+
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+	width:auto;
+
+
+}
+#table img{cursor: pointer;}
+#plink{
+color: rgb(142, 129, 129);
+}
+
+
+
+.tabbable{
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.span6{
+	font-size:16px;
+}
+ul
+{
+    list-style-type: none;
+}
+#pollName{
+	font-size: 36px;
+
+	text-align: center;
+}
+
+#description{
+	font-size:16px;
+	font-family: inherit;
+
+}
+#location{
+	font-size:16px;
+	font-family: inherit;
+
+}
+#url{
+	font-size:16px;
+	font-family: inherit;
+
+}
+
+.span6{
+	font-size:16px;font-family:inherit;
+}
+
+h5{
+
+	font-size:18spx;font-family:inherit;
+}
+
+.manage1{
+	padding-bottom: 0px;
+}
+
+a:link{
+
+}

@@ -1,0 +1,20 @@
+RewriteEngine On
+
+
+
+RewriteRule ^index\.* index.php
+RewriteRule ^schedule\.*  schedule.php
+RewriteRule ^mypoll\.*  mypoll.php
+RewriteRule ^account\.*  useraccount.php
+RewriteRule ^managepoll\.*  managepoll.php
+RewriteRule ^useraccount\.*  useraccount.php
+RewriteRule ^404\.*  404.php
+RewriteRule ^useraccount\.*  useraccount.php
+
+RewriteRule  ^(\w{12})$ managepoll.php?url=$1;
+
+
+
+
+
+
